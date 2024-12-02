@@ -17,23 +17,23 @@ The video game **FIFA 23**, created by **EA Sports**, is a soccer video game whe
   b. By Position
 ## Analyses
 - Overall, Potential and Age Relationship
-  a. Rating vs Age
-  b. Raiting difference vs Age
-  c. Raiting vs Players Older than 27
-  d. Raiting vs Players Younger than 27
-  e. Potential vs Age
-  f. Distribution with Age for Player with 85+ Potential
-  g. Players 27 and Under, Potential vs Value
-  h. Players 27 and Under with Potential of 85 or Higher
-  i. Players Older than 27 with Potential of 85 or Higher
+  - Rating vs Age
+  - Rating difference vs Age
+  - Rating vs Players Older than 27
+  - Rating vs Players Younger than 27
+  - Potential vs Age
+  - Distribution with Age for Player with 85+ Potential
+  - Players 27 and Under, Potential vs Value
+  - Players 27 and Under with Potential of 85 or Higher
+  - Players Older than 27 with Potential of 85 or Higher
 ## Discussion
 - Data Conclusion
-  a. Rating and Age (a. and b. from Analyses)
-  b. Rating and Potential of Younger and older then 27 (c. and d. from Analyses)
-  c. Player potential when ageing (e. from Analyses)
-  d. Players count per age of rating 85+ (f. from Analyses)
-  f. Players under 27 value (g. from Analyses)
-  g. Players potentail of 85+ per Postion (h. and i. from Analyses)
+  - Rating and Age (a. and b. from Analyses)
+  - Rating and Potential of Younger and older then 27 (c. and d. from Analyses)
+  - Player Potential when ageing (e. from Analyses)
+  - Players count per age of rating 85+ (f. from Analyses)
+  - Players under 27 value (g. from Analyses)
+  - Players Potential of 85+ per Postion (h. and i. from Analyses)
 - Final "in Game Use" Notes
 - Futher Questions
 ## References
